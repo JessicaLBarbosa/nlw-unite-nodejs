@@ -2,7 +2,7 @@ POST http://localhost:3333/events
 Content-Type: application/json
 
 {
-  "title": "Unite Summit",
+  "title": "Semana OmniStack 1.0",
   "details": "Um evento para quem é apaixonado por tecnologia",
   "maximumAttendees": 100
 }
