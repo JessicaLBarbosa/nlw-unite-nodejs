@@ -6,3 +6,13 @@ Content-Type: application/json
   "details": "Um evento para quem é apaixonado por tecnologia",
   "maximumAttendees": 100
 }
+
+###
+
+POST http://localhost:3333/events/ee3fd2e3-6988-4d9c-b2a6-718e63270efb/attendees
+Content-Type: application/json
+
+{
+  "name":  "Tomás Luiz Assunção",
+  "email": "tomas-assuncao97@progetamos.com.br"
+}
