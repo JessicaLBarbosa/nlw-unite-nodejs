@@ -16,3 +16,6 @@ Content-Type: application/json
   "name":  "Erick Manuel Enrico Duarte",
   "email": "erickmanuelduarte@arcante.com.br"
 }
+
+###
+GET http://localhost:3333/events/bc231f7d-5a79-44f7-92e9-188d945e9882
