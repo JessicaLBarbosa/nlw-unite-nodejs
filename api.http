@@ -2,17 +2,17 @@ POST http://localhost:3333/events
 Content-Type: application/json
 
 {
-  "title": "Semana OmniStack 1.0",
+  "title": "Semana OmniStack 3.0",
   "details": "Um evento para quem é apaixonado por tecnologia",
-  "maximumAttendees": 100
+  "maximumAttendees": 1
 }
 
 ###
 
-POST http://localhost:3333/events/ee3fd2e3-6988-4d9c-b2a6-718e63270efb/attendees
+POST http://localhost:3333/events/bc231f7d-5a79-44f7-92e9-188d945e9882/attendees
 Content-Type: application/json
 
 {
-  "name":  "Tomás Luiz Assunção",
-  "email": "tomas-assuncao97@progetamos.com.br"
+  "name":  "Erick Manuel Enrico Duarte",
+  "email": "erickmanuelduarte@arcante.com.br"
 }
