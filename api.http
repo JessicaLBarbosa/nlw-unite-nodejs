@@ -31,4 +31,4 @@ GET http://localhost:3333/attendees/6/check-in
 
 ###
 
-GET http://localhost:3333/events/bc231f7d-5a79-44f7-92e9-188d945e9882/attendees?query=Erick
+GET http://localhost:3333/events/bc231f7d-5a79-44f7-92e9-188d945e9882/attendees
