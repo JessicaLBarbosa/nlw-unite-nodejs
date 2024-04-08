@@ -2,7 +2,7 @@ POST http://localhost:3333/events
 Content-Type: application/json
 
 {
-  "title": "Semana OmniStack 3.0",
+  "title": "Semana OmniStack 4.0",
   "details": "Um evento para quem é apaixonado por tecnologia",
   "maximumAttendees": 1
 }
